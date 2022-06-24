@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @rishabswalia
-- 👀 I’m interested in Codin
-- 🌱 I’m currently learning DS/ALGO/Angular
-- 💞️ I’m looking to collaborate on ANGULAR
 - 📫 How to reach me rishabswalia@gmail.com
 
 <!---
